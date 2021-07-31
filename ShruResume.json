@@ -2,13 +2,13 @@
     "basics": {
         "name": "Shruthin Goud",
         "label": "Student",
-	"picture": "",
+	"picture": "https://avatars.githubusercontent.com/u/88135575?s=400&u=03f90aa67a546e26e117f6294be9c21ba9352962&v=4",
         "email": "2020kucp1157@iiitkota.ac.in",
         "phone": "+917989000491",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
         "location": {
             "address": "Hyderabad (Telangana)",
-            "postalCode": "",
+            "postalCode": "500068",
             "city": "HYDERABAD",
             "countryCode": " India",
             "region": "TELANGANA"
@@ -17,7 +17,7 @@
                 {
                 "network": "Github",
                 "username": "Shruthin01",
-                "url": ""
+                "url": "https://github.com/Shruthin01"
             },
             {
                 "network": "linkedin",
